@@ -2,6 +2,7 @@
 DESCRIPTION : 
 
 A Vertical Scroller Game with challenging &amp; fun platforms to play.
+Done in Unity Game Engine.
 This is a prototype.
 
 SCREENSHOTS :
